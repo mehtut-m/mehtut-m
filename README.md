@@ -1,5 +1,11 @@
 ![This is an image](./github-header.png)
 
+## 📈 My Github Stat
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehtut-m&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehtut-m)](https://github.com/mehtut-m/github-readme-stats)
+
 <!--
 **mehtut-m/mehtut-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
