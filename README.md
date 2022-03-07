@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![This is an image](./header.png)
 
 <!--
