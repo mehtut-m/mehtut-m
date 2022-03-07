@@ -1,5 +1,11 @@
 ![This is an image](./github-header.png)
 
+## Contact Me
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehtut.m@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/mehtut.m/)](https://www.facebook.com/mehtut.m/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mehtut-menon/)](https://www.linkedin.com/in/mehtut-menon/)
+
 ## 📈 My Github Stat
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehtut-m&show_icons=true&theme=radical)
