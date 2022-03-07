@@ -1,4 +1,4 @@
-![This is an image](./header.png)
+![This is an image](./github-header.png)
 
 <!--
 **mehtut-m/mehtut-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
